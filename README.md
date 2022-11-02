@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ... JavaScript Projects
-- 🌱 I’m currently learning ... JavaScript & Python
-- 👯 I’m looking to collaborate on ... Anything really
+- 🔭 I’m currently working on ... Create React App Projects
+- 🌱 I’m currently learning ... React
+- 👯 I’m looking to collaborate on ... React Projects
 - 🤔 I’m looking for help with ... Learning about React
 - 💬 Ask me about ... The ***brain*** and ***music theory***
 - 📫 How to reach me: ... bowersjuan@gmail.com
